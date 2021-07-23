@@ -1,1 +1,1 @@
-# treaure-hunt
+# TREASURE-HUNT
